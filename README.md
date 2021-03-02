@@ -51,12 +51,3 @@ The following unit-tests have been implemented to ensure that the game works acc
 - Test 5: When comparing two cards of the same value, the winner of the next round should win 4 cards.
 
 The unit-tests are using parts of the game code to check whether the desired outcome is obtained. Basis for the unit-tests is the JEST library. If you want to run all the tests, you need to type `npm test` into the terminal.
-
-## Have I convinced you?
-
-I am happy to get to know more about the position and the team working on Cloud Native Projects. Please feel free to reach out on my Portfolio, LinkedIn, Mail or Mobile!
-
-**[Anna R. Weingart | Portfolio](https://www.annaweingart.de/)**
-**[Anna R. Weingart | LinkedIn](https://www.linkedin.com/in/weingartanna/)**
-**[Anna R. Weingart | Mail](mailto:annaraewein@gmail.com)**
-**[Anna R. Weingart | Mobile: +4915172430864](tel:+4915172430864)**
